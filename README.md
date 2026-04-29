@@ -31,6 +31,9 @@ Long-haul (>8000km): 0.15282 kg CO2e/km; *
 estimate of 5.25tCO2e for 1000 people per day = 5.25kg / person / conference day
 
 
+
+
+
 *based on UK Government Conversion Factors for greenhouse gas (GHG) reporting 2025
 https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2025 
 
